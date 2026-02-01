@@ -1,4 +1,4 @@
-# Hi, I'm Víctor 👋  
+# Hi there, I'm Víctor 👋  
 
 🎓 Final-year **Data Science & Engineering** student at **UC3M (Madrid)**  
 🧠 Passionate about turning data into smart, real-world solutions  
