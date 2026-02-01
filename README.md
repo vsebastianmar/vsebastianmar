@@ -10,7 +10,8 @@ I enjoy building things that *make sense with data* — from analytical models t
 ## 🚀 What I Like Working On
 
 - 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Analysis & Visualization  
+- 📊 Data Analysis & Visualization
+- 🔐 Cybersecurity and applied data problems  
 - 📱 Mobile and web applications powered by data  
 
 I’m especially motivated by projects where **data meets impact** — optimizing processes, improving decisions, or creating tools people actually use.
