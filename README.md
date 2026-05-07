@@ -3,7 +3,7 @@
 🎓 Final-year **Data Science & Engineering** student at **UC3M (Madrid)**  
 🧠 Passionate about turning data into smart, real-world solutions  
 
-I enjoy building things that *make sense with data* — from analytical models to full applications. My background combines **math, statistics, and software development**, with growing experience in **AI, machine learning, and data-driven decision making**.
+I enjoy building things that "make sense with data": from analytical models to full applications. My background combines **math, statistics, and software development**, with growing experience in **AI, machine learning, and data-driven decision making**.
 
 ---
 
@@ -21,7 +21,7 @@ I’m especially motivated by projects where **data meets impact** — optimizin
 ## 🛠 Tech Toolbox
 
 **Languages:** Python, JavaScript, SQL, R  
-**Data & AI:** Machine Learning, Data Analysis  
+**Data & AI:** Machine Learning, Data Analysis, LLMs, RAG, MCP
 **Development:** Mobile & Web Development, Databases  
 **Other:** Advanced Excel, Power BI basics  
 
